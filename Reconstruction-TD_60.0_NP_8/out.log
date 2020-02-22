@@ -1,0 +1,663 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.8.12)  22 FEB 2020 14:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**out.tex
+(./out.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count87
+\calc@Bcount=\count88
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count89
+\calc@Cskip=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+\AM@pagewidth=\dimen107
+\AM@pageheight=\dimen108
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count91
+\AM@templatesizebox=\box27
+) (./out.aux)
+\openout1 = `out.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+\AtBeginShipoutBox=\box28
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen109
+\scratchbox=\box29
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen110
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+<Alex_LC.pdf, id=1, 867.24pt x 578.16pt>
+File: Alex_LC.pdf Graphic file (type pdf)
+ <use Alex_LC.pdf>
+Package pdftex.def Info: Alex_LC.pdf used on input line 4.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+File: Alex_LC.pdf Graphic file (type pdf)
+ <use Alex_LC.pdf>
+Package pdftex.def Info: Alex_LC.pdf used on input line 4.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+
+<Alex_LC.pdf, id=4, page=1, 867.24pt x 578.16pt>
+File: Alex_LC.pdf Graphic file (type pdf)
+ <use Alex_LC.pdf, page 1>
+Package pdftex.def Info: Alex_LC.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 867.2379pt x 578.15858pt.
+File: Alex_LC.pdf Graphic file (type pdf)
+
+<use Alex_LC.pdf, page 1>
+Package pdftex.def Info: Alex_LC.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 614.46112pt x 409.64073pt.
+File: Alex_LC.pdf Graphic file (type pdf)
+ <use Alex_LC.pdf, page 1>
+Package pdftex.def Info: Alex_LC.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 614.46112pt x 409.64073pt.
+File: Alex_LC.pdf Graphic file (type pdf)
+ <use Alex_LC.pdf, page 1>
+Package pdftex.def Info: Alex_LC.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 614.46112pt x 409.64073pt.
+File: Alex_LC.pdf Graphic file (type pdf)
+
+<use Alex_LC.pdf, page 1>
+Package pdftex.def Info: Alex_LC.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 614.46112pt x 409.64073pt.
+ [1
+
+ <./Alex_LC.pdf>]
+<Reconstruction-TD_60_NP_8.pdf, id=43, 724.34677pt x 249.44379pt>
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8.pdf>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf used on input line 5.
+(pdftex.def)             Requested size: 724.345pt x 249.44318pt.
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use Reconstruction-TD_60_NP_8.pdf>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf used on input line 5.
+(pdftex.def)             Requested size: 724.345pt x 249.44318pt.
+
+<Reconstruction-TD_60_NP_8.pdf, id=46, page=1, 724.34677pt x 249.44379pt>
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf, page1 used on input lin
+e 5.
+(pdftex.def)             Requested size: 724.345pt x 249.44318pt.
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf, page1 used on input lin
+e 5.
+(pdftex.def)             Requested size: 614.58134pt x 211.64378pt.
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf, page1 used on input lin
+e 5.
+(pdftex.def)             Requested size: 614.58134pt x 211.64378pt.
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf, page1 used on input lin
+e 5.
+(pdftex.def)             Requested size: 614.58134pt x 211.64378pt.
+File: Reconstruction-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8.pdf, page1 used on input lin
+e 5.
+(pdftex.def)             Requested size: 614.58134pt x 211.64378pt.
+ [2 <./Reconstruction-TD_60_NP_8.pdf>] <corner-TD_60_NP_8.pdf, id=84, 397.485pt
+ x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf used on input line 6.
+(pdftex.def)             Requested size: 397.48402pt x 397.48402pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf used on input line 6.
+(pdftex.def)             Requested size: 397.48402pt x 397.48402pt.
+
+<corner-TD_60_NP_8.pdf, id=87, page=1, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 397.48402pt x 397.48402pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 1>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [3 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=155, page=2, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 2>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page2 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 2>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page2 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 2>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page2 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [4 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=160, page=3, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 3>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page3 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 3>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page3 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 3>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page3 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [5 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=165, page=4, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 4>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page4 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 4>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page4 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 4>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page4 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [6 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=170, page=5, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 5>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page5 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 5>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page5 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 5>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page5 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [7 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=176, page=6, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 6>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page6 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 6>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page6 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 6>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page6 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [8 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=181, page=7, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 7>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page7 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 7>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page7 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 7>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page7 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [9 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=186, page=8, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 8>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page8 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 8>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page8 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 8>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page8 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [10 <./corner-TD_60_NP_8.pdf>]
+<corner-TD_60_NP_8.pdf, id=191, page=9, 397.485pt x 397.485pt>
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 9>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page9 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+ <use corner-TD_60_NP_8.pdf, page 9>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page9 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+File: corner-TD_60_NP_8.pdf Graphic file (type pdf)
+
+<use corner-TD_60_NP_8.pdf, page 9>
+Package pdftex.def Info: corner-TD_60_NP_8.pdf, page9 used on input line 6.
+(pdftex.def)             Requested size: 615.04004pt x 615.04004pt.
+ [11 <./corner-TD_60_NP_8.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=196, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf used on input line
+ 7.
+(pdftex.def)             Requested size: 1300.85684pt x 289.07928pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf used on input line
+ 7.
+(pdftex.def)             Requested size: 1300.85684pt x 289.07928pt.
+
+<Reconstruction-TD_60_NP_8_plots.pdf, id=199, page=1, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page1 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 1300.85684pt x 289.07928pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page1 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page1 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page1 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 1>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page1 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [12 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=309, page=2, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 2>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page2 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 2>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page2 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 2>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page2 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [13 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=315, page=3, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 3>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page3 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 3>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page3 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 3>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page3 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [14 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=320, page=4, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 4>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page4 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 4>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page4 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 4>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page4 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [15 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=325, page=5, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 5>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page5 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 5>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page5 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 5>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page5 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [16 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=330, page=6, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 6>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page6 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 6>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page6 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 6>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page6 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [17 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=335, page=7, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 7>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page7 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 7>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page7 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 7>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page7 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [18 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=340, page=8, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 8>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page8 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 8>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page8 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 8>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page8 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [19 <./Reconstruction-TD_60_NP_8_plots.pdf>]
+<Reconstruction-TD_60_NP_8_plots.pdf, id=347, page=9, 1300.86pt x 289.08pt>
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 9>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page9 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 9>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page9 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+File: Reconstruction-TD_60_NP_8_plots.pdf Graphic file (type pdf)
+
+<use Reconstruction-TD_60_NP_8_plots.pdf, page 9>
+Package pdftex.def Info: Reconstruction-TD_60_NP_8_plots.pdf, page9 used on inp
+ut line 7.
+(pdftex.def)             Requested size: 614.69931pt x 136.59984pt.
+ [20 <./Reconstruction-TD_60_NP_8_plots.pdf>] (./out.aux) ) 
+Here is how much of TeX's memory you used:
+ 2830 strings out of 494953
+ 42269 string characters out of 6180977
+ 100166 words of memory out of 5000000
+ 6092 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 40i,18n,46p,250b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on out.pdf (20 pages, 357597 bytes).
+PDF statistics:
+ 355 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+
