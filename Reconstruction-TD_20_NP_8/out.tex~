@@ -1,0 +1,9 @@
+\documentclass{article}
+\usepackage{pdfpages}
+\begin{document}
+This is a test
+\includepdf[pages=-]{Alex_LC.pdf}
+\includepdf[pages=-]{Reconstruction-TD_60_NP_8.pdf}
+\includepdf[pages=-]{Reconstruction-TD_60_NP_8_plots.pdf}
+\includepdf[pages=-]{corner-TD_60_NP_8.pdf}
+\end{document}
