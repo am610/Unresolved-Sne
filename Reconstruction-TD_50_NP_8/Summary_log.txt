@@ -1,0 +1,729 @@
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+10 of 7200 iterations ended with a divergence (0.139 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+5 of 7200 iterations ended with a divergence (0.0694 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+2 of 7200 iterations ended with a divergence (0.0278 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+14 of 7200 iterations ended with a divergence (0.194 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+3 of 7200 iterations ended with a divergence (0.0417 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+14 of 7200 iterations ended with a divergence (0.194 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+7 of 7200 iterations ended with a divergence (0.0972 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+17 of 7200 iterations ended with a divergence (0.236 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
+update_title_pos
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=5.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=7.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
+update_title_pos
+update_title_pos
+update_title_pos
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+10 of 7200 iterations ended with a divergence (0.139 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+findfont: Matching :family=STIXGeneral:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXGeneral ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf') with score of 0.050000.
+findfont: Matching :family=STIXNonUnicode:style=normal:variant=normal:weight=bold:stretch=normal:size=10.0 to STIXNonUnicode ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf') with score of 0.000000.
+findfont: Matching :family=STIXNonUnicode:style=italic:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXNonUnicode ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf') with score of 0.050000.
+findfont: Matching :family=STIXGeneral:style=italic:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXGeneral ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf') with score of 0.050000.
+findfont: Matching :family=STIXGeneral:style=normal:variant=normal:weight=bold:stretch=normal:size=10.0 to STIXGeneral ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf') with score of 0.000000.
+findfont: Matching :family=STIXNonUnicode:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to STIXNonUnicode ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf') with score of 0.050000.
+findfont: Matching :family=cmex10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmex10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf') with score of 0.050000.
+findfont: Matching :family=cmss10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmss10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf') with score of 0.050000.
+findfont: Matching :family=cmsy10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmsy10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf') with score of 0.050000.
+findfont: Matching :family=cmr10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmr10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf') with score of 0.050000.
+findfont: Matching :family=cmtt10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmtt10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf') with score of 0.050000.
+findfont: Matching :family=cmb10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmb10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf') with score of 0.050000.
+findfont: Matching :family=cmmi10:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to cmmi10 ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf') with score of 0.050000.
+findfont: Matching :family=DejaVu Sans:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+findfont: Matching :family=DejaVu Sans Display:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans Display ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf') with score of 0.050000.
+findfont: Matching :family=DejaVu Sans:style=italic:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf') with score of 0.150000.
+findfont: Matching :family=DejaVu Sans Mono:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans Mono ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf') with score of 0.050000.
+findfont: Matching :family=DejaVu Sans:style=normal:variant=normal:weight=bold:stretch=normal:size=10.0 to DejaVu Sans ('/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf') with score of 0.000000.
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+Assigning font /b'F2' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf'
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+5 of 7200 iterations ended with a divergence (0.0694 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+2 of 7200 iterations ended with a divergence (0.0278 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+14 of 7200 iterations ended with a divergence (0.194 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+3 of 7200 iterations ended with a divergence (0.0417 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+14 of 7200 iterations ended with a divergence (0.194 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+7 of 7200 iterations ended with a divergence (0.0972 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+17 of 7200 iterations ended with a divergence (0.236 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf.
+Writing TrueType font.
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+pickle loaded: /home/ayan/.local/lib/python3.5/site-packages/matplotlib/pyplot.py
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+10 of 7200 iterations ended with a divergence (0.139 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+5 of 7200 iterations ended with a divergence (0.0694 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+2 of 7200 iterations ended with a divergence (0.0278 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+14 of 7200 iterations ended with a divergence (0.194 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+3 of 7200 iterations ended with a divergence (0.0417 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+14 of 7200 iterations ended with a divergence (0.194 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+7 of 7200 iterations ended with a divergence (0.0972 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Successfully parsed Stan model 'anon_model_07584eb49124e631d26e63cb7aa37dcb'.
+COMPILING THE C++ CODE FOR MODEL anon_model_07584eb49124e631d26e63cb7aa37dcb NOW.
+17 of 7200 iterations ended with a divergence (0.236 %).
+Try running with adapt_delta larger than 0.8 to remove the divergences.
+update_title_pos
+update_title_pos
+update_title_pos
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
+update_title_pos
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
+update_title_pos
+update_title_pos
+update_title_pos
+Assigning font /b'F1' = '/home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf'
+Embedding font /home/ayan/.local/lib/python3.5/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf.
+Writing TrueType font.
